@@ -1,0 +1,2 @@
+packages
+pyautogui & pandas
