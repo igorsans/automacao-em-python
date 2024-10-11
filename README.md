@@ -1,2 +1,3 @@
-packages
-pyautogui & pandas
+## Packages
+* pyautogui
+* pandas
